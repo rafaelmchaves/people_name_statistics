@@ -1,0 +1,55 @@
+The names cardinality for full, last, and first names: 
+Full names: 48418
+Last names: 468
+First names: 3006
+
+The most common last names are:
+Barton: 143
+Lang: 136
+Ortiz: 135
+Hilll: 134
+Hills: 130
+Terry: 129
+Johns: 128
+Romaguera: 128
+Becker: 128
+Crist: 127
+
+The most common first names are:
+Tara: 32
+Keon: 31
+Andreanne: 31
+Stephania: 31
+Kaycee: 30
+Baron: 29
+Heath: 29
+Kayley: 29
+Ulices: 29
+Charlotte: 29
+
+Modified names are:
+Marvin, Mckenna
+McLaughlin, Garfield
+Lang, Mariah
+Bradtke, Agustina
+Adams, Nikko
+Lehner, Luis
+Ortiz, Matilde
+Koch, Anita
+Cartwright, Berry
+Fisher, Nicolas
+Kunze, Elmo
+Stanton, Gertrude
+Runolfsdottir, Davin
+Rogahn, Roy
+Tromp, Colby
+Hoppe, Ryley
+Shanahan, Stanley
+Hills, Bethel
+McGlynn, Samanta
+Lynch, Thad
+Bahringer, Norma
+Tillman, Lennie
+Stoltenberg, Madison
+Dickinson, Donna
+Graham, Sonya
